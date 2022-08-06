@@ -1,6 +1,6 @@
 # bgcolor_app
 
-A new Flutter application.
+This application help to switch the background Color of the application using color switch bar you can set the color 
 
 ## Getting Started
 
